@@ -17,8 +17,15 @@ a:hover{
 	color:black;
 }
 
-#welcome {
-	text-align:center;
-	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size:100px;
+#main_wrapper{
+ background-size: 100% 100%;  
+ background-repeat: no-repeat;
+}
+
+#main_content{
+    background-color: #ffffff;
+	 background: url(/TicketNumberDrawing.png);
+    height: 800px;
+    width: 1200px;
+	margin: auto;
 }
