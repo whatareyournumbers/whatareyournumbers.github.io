@@ -18,13 +18,12 @@ a:hover{
 }
 
 #main_wrapper{
- background-size: 100% 100%;  
- background-repeat: no-repeat;
 }
 
 #main_content{
     background-color: #ffffff;
-	 background: url("TicketNumberDrawing.png");
+	background: url("TicketNumberDrawing.png");
+	background-repeat: no-repeat;
     height: 500px;
     width: 800px;
 	margin: auto;
