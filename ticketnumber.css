@@ -33,7 +33,7 @@ a:hover{
 }
 
 #hitcounter{
-	top:150px;
+	margin-top:150px;
+	margin-left:80px;
 	text-align:center;
-	margin:auto;
 }
