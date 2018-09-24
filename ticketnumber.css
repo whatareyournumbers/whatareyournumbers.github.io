@@ -31,3 +31,9 @@ a:hover{
 	padding-top:100px;
 	text-align:center;
 }
+
+#hitcounter{
+	top:150px;
+	text-align:center;
+	margin:auto;
+}
