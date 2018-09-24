@@ -24,8 +24,8 @@ a:hover{
 
 #main_content{
     background-color: #ffffff;
-	 background: url(/TicketNumberDrawing.png);
-    height: 800px;
-    width: 1200px;
+	 background: url("TicketNumberDrawing.png");
+    height: 500px;
+    width: 800px;
 	margin: auto;
 }
