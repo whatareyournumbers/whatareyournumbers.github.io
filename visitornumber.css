@@ -3,9 +3,12 @@
 
 a {
 	text-decoration:none;
-	font-size:50px;
+	font-size:100px;
 	font-color:black;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+a:visited{
+	color:black;
 }
 
 #welcome {
