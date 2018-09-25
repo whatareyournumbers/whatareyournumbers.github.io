@@ -28,6 +28,7 @@ a:hover{
   position: absolute;
   text-align:center;
   z-index:2;
-  top:100px;
+  top:150px;
+  left:500px;
 	
 }
