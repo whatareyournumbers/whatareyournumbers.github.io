@@ -17,18 +17,21 @@ a:hover{
 	color:black;
 }
 
-.wrapper{
+#wrapper{
 	 position: relative;
+	margin:auto;
 }
-.image{	
+#main_content{	
 	text-align:center;
-	z-index:1;
+	background-image: url("TicketV2.png");
+	background-repeat: none;
+	height:435px;
+	width:232px;
 }
 #counter{
-  position: absolute;
+
   text-align:center;
-  z-index:2;
-  top:200px;
-  left:200px;
+  margin-top:200px;
 	
 }
+
