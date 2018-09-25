@@ -24,6 +24,7 @@ a:hover{
 	position:absolute;
 	text-align:center;
 	z-index:1;
+	margin:auto;
 }
 #counter{
   position: absolute;
