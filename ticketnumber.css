@@ -26,13 +26,14 @@ a:hover{
 	background: url("TicketV2.png");
 	background-repeat: no-repeat;
     width:232px;
-	height: 435px;
+	height: 500px;
 	margin: auto;
+	margin-top:200px;
 	text-align:center;
 }
 
 #hitcounter{
-	margin-top:400px;
+	margin-top:600px;
 	margin-left:0px;
 	text-align:center;
 }
