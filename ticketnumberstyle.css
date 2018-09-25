@@ -21,7 +21,7 @@ a:hover{
 	 position: relative;
 }
 .image{	
-	position:relative;
+	position:absolute;
 	text-align:center;
 	z-index:1;
 }
