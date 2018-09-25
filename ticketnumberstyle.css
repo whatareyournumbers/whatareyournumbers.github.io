@@ -18,19 +18,21 @@ a:hover{
 }
 
 .wrapper{
-	 position: relative;
+	  width: 50%;
+  margin: 0 auto;
 }
 .image{	
-	position:absolute;
+	position:fixed;	
 	text-align:center;
 	z-index:1;
-	margin:auto;
+	 width: 50%;
+  margin: 0 auto;
 }
 #counter{
-  position: absolute;
+  position: relative;
   text-align:center;
   z-index:2;
   top:200px;
-  left:653px;
+  margin: 0 auto;
 	
 }
