@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a {
+	text-decoration:none;
+	font-size:200px;
+	color:black;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+a:visited{
+	color:black;
+}
+a:active{
+	color:black;
+}
+a:hover{
+	color:black;
+}
+
+#main {
+	text-align:center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:200px;
+}
