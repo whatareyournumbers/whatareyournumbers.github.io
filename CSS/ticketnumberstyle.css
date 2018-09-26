@@ -20,6 +20,7 @@ a:hover{
 .wrapper{
 	  width: 50%;
   margin: 0 auto;
+	margin-top:100px;
 }
 .image{	
 	position:fixed;	
