@@ -18,7 +18,16 @@ a:hover{
 }
 
 #main {
+	margin-top:75px;
+	text-align:center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:95px;
+	line-height:90px;
+}
+
+#number {
 	text-align:center;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	font-size:200px;
+	line-height:300px;
 }
