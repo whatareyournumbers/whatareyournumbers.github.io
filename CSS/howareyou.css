@@ -7,7 +7,7 @@
 	margin-left:75px;
 	text-align:left;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	font-size:30px;
+	font-size:80px;
 	text-decoration:bold;
 }
 
@@ -25,11 +25,11 @@ input, textarea {
 }
 
 .button{
-	background-color:black;
-	border:none;
-	color:white;
+	background-color:none;
+	border:1px solid black;
+	font-size:60px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	display: inline-block;
-	padding:5px;
-	border-radius:3px;
+	padding:5px 15px;
+	border-radius:5px;
 }
