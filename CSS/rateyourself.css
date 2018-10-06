@@ -7,9 +7,9 @@
 	text-align: center;
 }
 #title{
-	font-size:60px;
+	font-size:80px;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	margin-bottom:10px;
+	margin-bottom:20px;
 }
 
 input[type=submit] {
