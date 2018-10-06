@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper{
+	margin:auto;
+	margin-top:10%;
+	text-align: center;
+}
+#title{
+	font-size:60px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-bottom:10px;
+}
+
+input[type=submit] {
+	font-size:60px;
+	width:70px;
+    background:none; 
+    border:1px solid black;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	margin-left:10px;
+}
