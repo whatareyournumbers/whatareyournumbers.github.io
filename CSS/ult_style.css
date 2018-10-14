@@ -1,0 +1,160 @@
+@charset "UTF-8";
+a {
+	text-decoration:none;
+	text-align:center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:200px;
+	line-height:300px;
+	color:black;
+}
+a:visited{
+	color:black;
+}
+a:active{
+	color:black;
+}
+a:hover{
+	color:black;
+}
+
+#welcome {
+	margin-top:75px;
+	text-align:center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:95px;
+	line-height:90px;
+}
+
+.wrapper{
+	  width: 50%;
+  margin: 0 auto;
+	margin-top:100px;
+}
+.image{	
+	position:fixed;	
+	text-align:center;
+	z-index:1;
+	 width: 50%;
+  margin: 0 auto;
+}
+#counter{
+  position: relative;
+  text-align:center;
+  z-index:2;
+  top:200px;
+  margin: 0 auto;
+	
+}
+
+#main_wrapper{
+	top:200px;
+}
+
+#main_content{
+	top:100px;
+    background-color: red;
+	background: url("TicketV2.png");
+	background-repeat: no-repeat;
+    width:232px;
+	height: 435px;
+	margin: auto;
+	padding-top:100px;
+	text-align:center;
+}
+
+#hitcounter{
+	margin-top:150px;
+	margin-left:20px;
+	text-align:center;
+}
+
+#main {
+	margin-top:75px;
+	margin-left:75px;
+	text-align:left;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:80px;
+	text-decoration:bold;
+}
+
+
+label{
+}
+
+input, textarea {
+  font    : .9em/1.5em "handwriting", sans-serif;
+  border  : none;
+  padding : 0 10px;
+  margin  : 0;
+  width   : 240px;
+  background: none;
+}
+
+.button{
+	background-color:white;
+	border:1px solid black;
+	font-size:60px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	display: inline-block;
+	padding:5px 15px;
+	border-radius:5px;
+}
+
+#main_dayssince {
+	margin-top:75px;
+	text-align:center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:95px;
+	line-height:90px;
+}
+
+#number_dayssince {
+	text-align:center;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:200px;
+	line-height:300px;
+}
+
+#wrapper_track{
+	margin:auto;
+	margin-top:20px;
+	text-align: center;
+}
+
+#title_track{
+	text-align:center;
+	margin:auto;
+	margin-top:10px;
+	margin-bottom:10px;
+	background:none;
+	font-size:50px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+#can{
+	position:relative;
+	border:1px solid;
+	margin-bottom: 0px;
+}
+
+#wrapper{
+	margin:auto;
+	margin-top:10%;
+	text-align: center;
+}
+#title{
+	font-size:80px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin-bottom:20px;
+}
+
+input[type=submit] {
+	font-size:60px;
+	width:70px;
+    background:none; 
+    border:1px solid black;
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+	margin-left:10px;
+}
