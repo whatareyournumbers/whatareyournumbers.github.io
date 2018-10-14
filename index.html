@@ -5,9 +5,12 @@
 <title>WHAT ARE YOUR NUMBERS?</title>
 </head>
 
-<script src="loadrandom.js" type="text/javascript"></script>
-<body onload="loadExternalHTMLPage()>
-<div id="contentArea">
+<body>
+<?php 
+			$urls = array("https://whatareyournumbers.github.io/dayssince.html", "https://whatareyournumbers.github.io/visitornumber.html", "https://whatareyournumbers.github.io/ticketnumber.html","https://whatareyournumbers.github.io/trackyourself.html"); 
+				$url = $urls[array_rand($urls)]; 
+			header("Location: http://$url"); 
+		?>
 </div>
 </body>
 </html>
